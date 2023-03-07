@@ -1,3 +1,4 @@
+import React from "react";
 import type { FC } from "react";
 import "app/global.css";
 import Root from "app/router/root";

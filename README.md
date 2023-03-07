@@ -3,6 +3,8 @@
 Node: 18.14.2\
 Yarn: 1.22.19
 
+[Feature-Sliced Design (FSD)](https://feature-sliced.design/ru/)
+
 - [Vite](https://vitejs.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [ESLint](https://eslint.org/)

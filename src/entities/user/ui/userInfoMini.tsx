@@ -1,3 +1,4 @@
+import React from "react";
 import type { FC } from "react";
 import { useUserStore } from "entities/user/model/store";
 import styled from "styled-components";

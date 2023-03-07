@@ -6,10 +6,9 @@
 
 body {
   min-height: 100vh;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 #root {
   min-height: 100vh;
 }
-

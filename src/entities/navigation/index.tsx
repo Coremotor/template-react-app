@@ -2,6 +2,7 @@ import type { FC } from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { E_Routes } from "app/router/routes";
+import React from "react";
 import { isAllowed } from "shared/guard/guard";
 
 const Navigation: FC = () => {

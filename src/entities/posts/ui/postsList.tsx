@@ -1,7 +1,7 @@
+import React, { useEffect } from "react";
 import type { FC } from "react";
 import styled from "styled-components";
 import { usePostsStore } from "entities/posts/model/store";
-import { useEffect } from "react";
 
 export const PostsList: FC = () => {
   const posts = usePostsStore((state) => state.posts);

@@ -1,3 +1,4 @@
+import React from "react";
 import type { FC } from "react";
 import styled from "styled-components";
 import { Outlet } from "react-router-dom";
