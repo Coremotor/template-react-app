@@ -8,7 +8,6 @@ export const UserInfoMini: FC = () => {
 
   return (
     <Container>
-      <Name>Имя:&nbsp;</Name>
       <Name>{user?.name}</Name>
     </Container>
   );

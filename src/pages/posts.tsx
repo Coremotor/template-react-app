@@ -1,5 +1,4 @@
-import React from "react";
-import type { FC } from "react";
+import React, { FC } from "react";
 import { PostsList } from "entities/posts";
 
 const Posts: FC = () => {
